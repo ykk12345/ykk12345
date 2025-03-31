@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Final year Undergraduate computer science major.<br>🌱I'm currently learning Blockchain development.<br>⚡I'm also seeking jobs in software engineering, Frontend development, and Blockchain development.<br>👯I have also contributed to Hacktoberfest 2023. <br>📫 contact me: kaushikyash533@gmail.com <br><br>
+🔭Final year Undergraduate computer science major.<br>🌱I'm currently learning Blockchain development.<br>⚡I'm also seeking jobs in software engineering, Frontend development, and Blockchain development.<br>👯I have also contributed to Hacktoberfest 2023. <br>📫 contact me: kaushikyash533@gmail.com <be> Linkedin : https://www.linkedin.com/in/yash-kaushik711/<br>
 
 
 ## 🌐 Socials:
